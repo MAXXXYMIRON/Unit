@@ -1,0 +1,14 @@
+C:\Users\KNIGH\Desktop\OOP\TimeC#\Library\Time\bin\Debug\Time.dll
+C:\Users\KNIGH\Desktop\OOP\TimeC#\Library\Time\bin\Debug\Time.pdb
+C:\Users\KNIGH\Desktop\OOP\TimeC#\Library\Time\obj\Debug\Time.csprojAssemblyReference.cache
+C:\Users\KNIGH\Desktop\OOP\TimeC#\Library\Time\obj\Debug\Time.csproj.CoreCompileInputs.cache
+C:\Users\KNIGH\Desktop\OOP\TimeC#\Library\Time\obj\Debug\Time.dll
+C:\Users\KNIGH\Desktop\OOP\TimeC#\Library\Time\obj\Debug\Time.pdb
+C:\Users\KNIGH\Desktop\OOP\TimeC#\Library\Time\bin\Debug\Time.xml
+D:\Learning\OOP\TimeC#\Library\Time\obj\Debug\Time.csprojAssemblyReference.cache
+D:\Learning\OOP\TimeC#\Library\Time\obj\Debug\Time.csproj.CoreCompileInputs.cache
+D:\Learning\OOP\TimeC#\Library\Time\obj\Debug\Time.dll
+D:\Learning\OOP\TimeC#\Library\Time\obj\Debug\Time.pdb
+D:\Learning\OOP\TimeC#\Library\Time\bin\Debug\Time.xml
+D:\Learning\OOP\TimeC#\Library\Time\bin\Debug\Time.dll
+D:\Learning\OOP\TimeC#\Library\Time\bin\Debug\Time.pdb
